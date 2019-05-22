@@ -12,11 +12,6 @@
       </snapshots>
     </repository>
   </repositories>
-     <server>
-      <id>git</id>  
-      <username>amitgsingh</username>  
-      <password>@Agithub44663</password>  
-   </server
  <scm>        
     <connection>scm:git:https://github.com/amit44663/Devops_maven.git</connection>
  <developerConnection>scm:git:https://github.com/amit44663/Devops_maven.git</developerConnection>
