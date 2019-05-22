@@ -6,7 +6,7 @@
   <interactiveMode>true</interactiveMode>
   <offline>false</offline>
     <server>
-      <id>git</id>  
+      <id>https://github.com/amit44663/Devops_maven.git</id>  
       <username>amitgsingh</username>  
       <password>@Agithub44663</password>  
    </server
