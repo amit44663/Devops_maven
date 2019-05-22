@@ -128,5 +128,5 @@
   </profiles>
   <groupId>com.mycompany.app</groupId>
   <artifactId>amit</artifactId>
-  <version>1.0SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
 </project>
