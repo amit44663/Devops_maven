@@ -12,7 +12,10 @@
       </snapshots>
     </repository>
   </repositories>
- 
+ <scm>        
+    <connection>scm:git:https://github.com/amit44663/Devops_maven.git</connection>
+ <developerConnection>scm:git:https://github.com/amit44663/Devops_maven.git</developerConnection>
+    </scm>
   <pluginRepositories>
     <pluginRepository>
       <id>central</id>
