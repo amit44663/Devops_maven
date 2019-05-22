@@ -5,5 +5,10 @@
   <localRepository>${user.home}/.m2/repository</localRepository>
   <interactiveMode>true</interactiveMode>
   <offline>false</offline>
+    <server>
+      <id>git</id>  
+      <username>amitgsingh</username>  
+      <password>@Agithub44663</password>  
+   </server
   ...
 </settings>
